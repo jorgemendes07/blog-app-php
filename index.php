@@ -5,7 +5,7 @@
     <main>
         <div id="title-container">
             <h1>The Beer Blog</h1>
-            <p>seu blog sobre cerveja</p>
+            <p> O seu blog sobre cerveja</p>
         </div>
     </main>
 
