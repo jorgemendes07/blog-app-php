@@ -40,6 +40,8 @@ header #nav-bar li:hover {
 /* FOOTER */
 
 footer {
+    position: absolute;
+    bottom: 0;
     width: 100%;
     background-color: rgb(62, 77, 56);
     color: white;
