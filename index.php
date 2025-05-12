@@ -14,7 +14,7 @@
                     <h2 class="post-title">
                         <a href="<?= $BASE_URL ?>post.php?id=<? $post['id'] ?>"><?= $post['title'] ?></a>
                     </h2>
-                    <p class="post-description"><?= $post['description'] ?></p>
+                    <p><?= $post['description'] ?></p>
                 </div>
             <?php endforeach ?>
         </div>
