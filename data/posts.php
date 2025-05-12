@@ -1,5 +1,4 @@
 <?php
-
     $posts = [
         [
             'id' => 1,
@@ -23,6 +22,6 @@
             'id' => 4,
             'title' => 'Stout: Potência, Sabor e História em Cada Gole',
             'description' => 'Forte, encorpada e cheia de personalidade. Conheça a história, os tipos e as curiosidades por trás do estilo Stout, a cerveja que vai muito além do amargor.',
-            'img' => 'post1.jpg'
+            'img' => 'post4.jpg'
         ]
     ];
