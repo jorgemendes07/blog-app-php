@@ -35,11 +35,15 @@ header #nav-bar ul {
 
 header #nav-bar li {
     margin: 0 15px;
-    transition: .4s ease;
-    cursor: pointer;
 }
 
-header #nav-bar li:hover {
+header #nav-bar a {
+    text-decoration: none;
+    color: #fff;
+    transition: .4s;
+}
+
+header #nav-bar a:hover {
     color: #c3c3c3;
 }
 
@@ -114,6 +118,21 @@ main {
 
 /* POST */
 
-.img-container img {
-    width: 40%;
+#content-container {
+    text-align: center;
+    max-width: 1200px;
+    margin: 40px auto 15px;
+}
+
+#content-container p {
+    text-align: justify;
+}
+
+#content-container img {
+    width: 50%;
+    margin: 20px 0;
+}
+
+#content-container h1 {
+    margin-bottom: 10px;
 }
