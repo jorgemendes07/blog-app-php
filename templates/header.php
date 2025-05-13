@@ -20,7 +20,6 @@
         <img src="images/lupulo.png" alt="logo da página the beer blog">
             <ul>
                 <li>Início</li>
-                <li>Categorias</li>
                 <li>Sobre</li>
             </ul>
         </nav>

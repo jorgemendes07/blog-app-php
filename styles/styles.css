@@ -111,3 +111,9 @@ main {
 .post-box .post-title a:hover {
     color: #666;
 }
+
+/* POST */
+
+.img-container img {
+    width: 40%;
+}
