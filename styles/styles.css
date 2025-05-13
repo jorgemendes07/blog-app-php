@@ -136,3 +136,19 @@ main {
 #content-container h1 {
     margin-bottom: 10px;
 }
+
+/* SOBRE */
+
+#sobre-container {
+    text-align: center;
+    margin: 40px auto;
+    max-width: 1200px;
+}
+
+#sobre-title {
+    margin-bottom: 20px;
+}
+
+#sobre-container p {
+    text-align: justify;
+}
