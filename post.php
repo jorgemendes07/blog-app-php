@@ -21,6 +21,7 @@
             <img src="<?= $BASE_URL ?>images/<?= $currentPost['img'] ?>" alt="<?= $currentPost['title'] ?>">
         </div>
         <p><?= $currentPost['content'] ?></p>
+        <a href="<?= $BASE_URL ?>/index.php" class="back-btn">Voltrar para o início</a>
     </div>
 </main>
 

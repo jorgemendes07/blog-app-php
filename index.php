@@ -2,7 +2,7 @@
     include_once("templates/header.php");
 ?>
 
-    <main>
+    <main id="main-container">
         <div id="title-container">
             <h1>The Beer Blog</h1>
             <p> O seu blog sobre cerveja</p>
